@@ -1,0 +1,13 @@
+name: Seattle_Airbnb
+title: Seattle_Airbnb
+username:
+account: dsba2022
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6216424
+bundleId: 5861065
+url: https://dsba2022.shinyapps.io/Seattle_Airbnb/
+when: 1651509490.37698
+lastSyncTime: 1651509490.37698
+asMultiple: FALSE
+asStatic: FALSE
